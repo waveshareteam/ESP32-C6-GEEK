@@ -1,0 +1,17 @@
+dependencies:
+  idf:
+    source:
+      type: idf
+    version: 5.5.1
+  lvgl/lvgl:
+    dependencies: []
+    source:
+      path: E:\05 ESP32-C6-GEEK-Demo\ESP32-C6-GEEK_V2-Demo\ESP-IDF\05_lvgl_example\components\lvgl__lvgl
+      type: local
+    version: 8.3.11
+direct_dependencies:
+- idf
+- lvgl/lvgl
+manifest_hash: 75c53fd6d6637ca2251b924dfd2436e8e476e7e0f0824fc436d3048814da82fe
+target: esp32c6
+version: 2.0.0

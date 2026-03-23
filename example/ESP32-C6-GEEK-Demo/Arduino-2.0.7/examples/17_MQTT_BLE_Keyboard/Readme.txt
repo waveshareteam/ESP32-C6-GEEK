@@ -1,0 +1,10 @@
+ESP32
+
+SPI:	
+	CLK	1
+	DIN	2
+	
+	RST	9
+	DC	8
+	CS	10
+	BLK       7
