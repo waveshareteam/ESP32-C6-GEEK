@@ -7,7 +7,7 @@ ESP32-C6-GEEK 是微雪为极客设计和嵌入式开发者推出的一款小型
 - [购买链接](https://www.waveshare.net/shop/ESP32-C6-GEEK.htm)
 - [产品文档](https://docs.waveshare.net/ESP32-C6-GEEK/)
 
-<img src="https://www.waveshare.net/photo/development-board/ESP32-C6-GEEK/ESP32-C6-GEEK-1.jpg" alt="Waveshare ESP32-C6-GEEK" width="500">
+<img src="assets/ESP32-C6-GEEK-1.webp" alt="Waveshare ESP32-C6-GEEK" width="500">
 
 ## 仓库结构
 

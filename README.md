@@ -7,7 +7,7 @@ The ESP32-C6-GEEK is a compact development board designed by Waveshare for maker
 - [Purchase Link](https://www.waveshare.com/esp32-c6-geek.htm)
 - [Documentation](https://docs.waveshare.com/ESP32-C6-GEEK)
 
-<img src="https://www.waveshare.net/photo/development-board/ESP32-C6-GEEK/ESP32-C6-GEEK-1.jpg" alt="Waveshare ESP32-C6-GEEK" width="500">
+<img src="assets/ESP32-C6-GEEK-1.webp" alt="Waveshare ESP32-C6-GEEK" width="500">
 
 ## Repository Structure
 
