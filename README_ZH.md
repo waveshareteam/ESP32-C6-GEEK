@@ -16,7 +16,7 @@ ESP32-C6-GEEK 是微雪为极客设计和嵌入式开发者推出的一款小型
 ```text
 .
 ├── example/         # V1 和 V2 的 Arduino 与 ESP-IDF 示例程序
-├── Firmware/        # 预编译测试固件
+├── firmware/        # 预编译测试固件
 ├── hardware/        # V1 和 V2 原理图
 ├── LICENSE          # Apache License 2.0
 ├── README.md        # 英文说明
@@ -30,7 +30,7 @@ ESP32-C6-GEEK 是微雪为极客设计和嵌入式开发者推出的一款小型
 - `ESP32-C6-GEEK-Demo` 适用于 ESP32-C6-GEEK
 - `ESP32-C6-GEEK_V2-Demo` 适用于 ESP32-C6-GEEK V2
 
-示例包含 Arduino 和 ESP-IDF 工程，涵盖 LCD、Micro SD 卡、按键、Wi-Fi、Bluetooth、MQTT 和 LVGL 等应用。预编译测试固件位于 [`Firmware/`](Firmware)，原理图位于 [`hardware/schematics/`](hardware/schematics)。
+示例包含 Arduino 和 ESP-IDF 工程，涵盖 LCD、Micro SD 卡、按键、Wi-Fi、Bluetooth、MQTT 和 LVGL 等应用。V1 和 V2 的测试固件请见 [`firmware/`](firmware/)，原理图位于 [`hardware/schematics/`](hardware/schematics)。
 
 开发环境搭建、固件烧录、引脚定义和示例使用方法请参阅[产品文档页面](https://docs.waveshare.net/ESP32-C6-GEEK/)。
 

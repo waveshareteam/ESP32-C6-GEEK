@@ -16,7 +16,7 @@ This repository provides sample programs, pre-built firmware, and hardware desig
 ```text
 .
 ├── example/         # Arduino and ESP-IDF examples for V1 and V2
-├── Firmware/        # Pre-built test firmware
+├── firmware/        # Pre-built test firmware
 ├── hardware/        # Schematics for V1 and V2
 ├── LICENSE          # Apache License 2.0
 ├── README.md        # English documentation
@@ -30,7 +30,7 @@ Examples for both hardware revisions are available in [`example/`](example):
 - `ESP32-C6-GEEK-Demo` for ESP32-C6-GEEK
 - `ESP32-C6-GEEK_V2-Demo` for ESP32-C6-GEEK V2
 
-The examples include Arduino and ESP-IDF projects covering LCD, Micro SD card, buttons, Wi-Fi, Bluetooth, MQTT, and LVGL applications. Pre-built test firmware is available in [`Firmware/`](Firmware), and schematics are available in [`hardware/schematics/`](hardware/schematics).
+The examples include Arduino and ESP-IDF projects covering LCD, Micro SD card, buttons, Wi-Fi, Bluetooth, MQTT, and LVGL applications. For V1 and V2 test firmware, see [`firmware/`](firmware/). Schematics are available in [`hardware/schematics/`](hardware/schematics).
 
 For development environment setup, flashing instructions, pin mappings, and example usage, refer to the [documentation page](https://docs.waveshare.com/ESP32-C6-GEEK).
 
