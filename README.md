@@ -11,13 +11,13 @@ The ESP32-C6-GEEK is a compact development board designed by Waveshare for maker
 
 ## Repository Structure
 
-This repository provides sample programs, pre-built firmware, and hardware design files for the ESP32-C6-GEEK and ESP32-C6-GEEK V2.
+This repository provides examples, factory firmware, and hardware design files for the ESP32-C6-GEEK.
 
 ```text
 .
-├── example/         # Arduino and ESP-IDF examples for V1 and V2
-├── firmware/        # Pre-built test firmware
-├── hardware/        # Schematics for V1 and V2
+├── example/         # Arduino and ESP-IDF examples
+├── firmware/        # Factory firmware
+├── hardware/        # Schematics
 ├── LICENSE          # Apache License 2.0
 ├── README.md        # English documentation
 └── README_ZH.md     # Chinese documentation
@@ -25,16 +25,9 @@ This repository provides sample programs, pre-built firmware, and hardware desig
 
 ## Getting Started
 
-Examples for both hardware revisions are available in [`example/`](example):
-
-- `ESP32-C6-GEEK-Demo` for ESP32-C6-GEEK
-- `ESP32-C6-GEEK_V2-Demo` for ESP32-C6-GEEK V2
-
-The examples include Arduino and ESP-IDF projects covering LCD, Micro SD card, buttons, Wi-Fi, Bluetooth, MQTT, and LVGL applications. For V1 and V2 test firmware, see [`firmware/`](firmware/). Schematics are available in [`hardware/schematics/`](hardware/schematics).
+The [examples for currently shipping boards](example/ESP32-C6-GEEK_V2-Demo/) include Arduino and ESP-IDF projects for the LCD, Micro SD card, buttons, Wi-Fi, Bluetooth, MQTT, and LVGL. See [`firmware/`](firmware/) for factory firmware and [`hardware/schematics/`](hardware/schematics/) for schematics.
 
 For development environment setup, flashing instructions, pin mappings, and example usage, refer to the [documentation page](https://docs.waveshare.com/ESP32-C6-GEEK).
-
-> Select the example and firmware that match your board revision. The ESP32-C6-GEEK and ESP32-C6-GEEK V2 use different hardware configurations.
 
 ## Contributing
 
